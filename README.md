@@ -1,4 +1,4 @@
-# Проект: Social_blog_api
+# Проект: social_blog_api
 
 ---
 
@@ -8,7 +8,7 @@ Python 3.9, DRF, SQLite 3, Djoser, Simple JWT
 ---
 
 ### Описание:
-**Social_blog_api** - это API для social_blog(https://github.com/CHEDEIV8/Social_blog). Позволяющая просматривать и создавать посты, 
+**social_blog_api** - это API для social_blog(https://github.com/CHEDEIV8/social_blog). Позволяющая просматривать и создавать посты, 
 просматривать группы, подписываться на авторов постов.
 
 ---
@@ -17,8 +17,8 @@ Python 3.9, DRF, SQLite 3, Djoser, Simple JWT
 
 Клонировать репозиторий и перейти в него в командной строке:
 ```
-git clone git@github.com:CHEDEIV8/api_final_yatube.git
-cd api_final_yatube
+git clone git@github.com:CHEDEIV8/social_blog_api.git
+cd social_blog_api
 ```
 Cоздать и активировать виртуальное окружение:  
 ```
