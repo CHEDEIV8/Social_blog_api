@@ -12,6 +12,7 @@ Python 3.9, DRF, SQLite 3, Djoser, Simple JWT
 просматривать группы, подписываться на авторов постов.
 
 Также см. альтернативную реализацию API на [FastApi.](https://github.com/CHEDEIV8/social_blog_fastapi)
+
 ---
 
 ### Как запустить проект:  
