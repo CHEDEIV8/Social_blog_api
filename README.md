@@ -8,9 +8,10 @@ Python 3.9, DRF, SQLite 3, Djoser, Simple JWT
 ---
 
 ### Описание:
-**social_blog_api** - это API для social_blog(https://github.com/CHEDEIV8/social_blog). Позволяющая просматривать и создавать посты, 
+**social_blog_api** - это API для [social_blog](https://github.com/CHEDEIV8/social_blog). Позволяющая просматривать и создавать посты, 
 просматривать группы, подписываться на авторов постов.
 
+Также см. альтернативную реализацию API на [FastApi.](https://github.com/CHEDEIV8/social_blog_fastapi)
 ---
 
 ### Как запустить проект:  
